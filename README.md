@@ -43,3 +43,5 @@ Launch Wordpress container with necessary environment variables:
 3.  Always run Mysql container first because you need env. variables related to Mysql container in Wordpress container like Database name.
 4. Do not forgot to add port range from 32000 to 65535 in security group. It is the port range used for port mapping when used -P flag.[you can also map ports manually]
 5. Latest versions of Wordpress and Mysql are recommended it has better features.
+***
+*Last updated: May 2026*
